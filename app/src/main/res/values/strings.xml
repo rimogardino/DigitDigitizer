@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Digit Digitizer</string>
+    <string name="btn_predict">Predict</string>
+</resources>
